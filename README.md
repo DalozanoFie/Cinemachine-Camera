@@ -1,8 +1,8 @@
 # Cinemachine-Camera
-En este proyecto podrá acceder a escenas de muestra y efectos realizados con el Visual Effect Graph.
+En este proyecto podrá acceder a la visualización a escala planetaria en Cinemachine, Dolly Tracks y Timeline Animation Tracks para coreografiar el movimiento de la cámara y desplazarse por la escena para capturar los diferentes planetas.
 
 <p align="center">
-            <img src="image.png" alt="Visual Effect Graph - Nieve| Versión 1 Danny Lozano"/>
+            <img src="image.png" alt="Camera Brain| Versión 1 Danny Lozano"/>
     </a>
 </p>
 
@@ -12,14 +12,6 @@ En este proyecto podrá acceder a escenas de muestra y efectos realizados con el
 
 ## Requisitos:
 
-- Window/Package Manage/High Definition RP
-
-- Window/Package Manage/Visual Effect Graph
-
-
-<p align="center">
-            <img src="hd.png" alt="Package Manager"/>
-    </a>
-</p>
+- Window/Package Manage/Cinemachine
 
 
